@@ -1,0 +1,34 @@
+# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# Annoyances AntiPopAds, Anti-Circumvent & AntiAdblock
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://github.com/AdguardTeam/AdguardFilters/raw/master/EnglishFilter/sections/antiadblock.txt
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt
+
+# Annoying Elements, Cookie promts etc.
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+# Third party fonts
+https://fanboy.co.nz/fanboy-antifonts.txt
+
+#  xarantolus' block list
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+# 1Hosts Lite + OISD basic + Energized Spark + Adguard Simplified
+https://raw.githubusercontent.com/RicoHeat/My-Combined-List-personalDNSfilter/main/Adblock.Combined.txt
